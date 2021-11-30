@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clickclock-dev-235403-authRole",
+      "UnauthRoleArn": "arn:aws:iam::884260782820:role/amplify-clickclock-dev-235403-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::884260782820:role/amplify-clickclock-dev-235403-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-clickclock-dev-235403-deployment",
+      "UnauthRoleName": "amplify-clickclock-dev-235403-unauthRole",
+      "StackName": "amplify-clickclock-dev-235403",
+      "StackId": "arn:aws:cloudformation:us-west-2:884260782820:stack/amplify-clickclock-dev-235403/23f5c560-d0cb-11eb-884b-061701a5ddb3",
+      "AmplifyAppId": "d1djlutod0otkl"
+    }
+  }
+}
